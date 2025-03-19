@@ -12,17 +12,27 @@ Before starting, make sure to install de following requirements:
 
 ## Steps
 
-1. Follow the instructions in `.github/steps/1-create-the-workflow-file.md`
+### 1. Navigate and follow the instructions in
 
-2. Follow the instructions in `.github/steps/2-add-a-dockerfile.md`
+`.github/steps/1-create-the-workflow-file.md`
 
-3. Follow the instructions in `.github/steps/3-merge-your-pull-request.md`
+### 2. Navigate and follow the instructions in
 
-4. Follow the instructions in `.github/steps/4-pull-your-image.md`
+`.github/steps/2-add-a-dockerfile.md`
 
-5. Follow the instructions in `.github/steps/5-run-your-image.md`
+### 3. Navigate and follow the instructions in
 
-6. Verify docker container
+`.github/steps/3-merge-your-pull-request.md`
+
+### 4. Navigate and follow the instructions in
+
+`.github/steps/4-pull-your-image.md`
+
+### 5. Navigate and follow the instructions in
+
+`.github/steps/5-run-your-image.md`
+
+### 6. Verify docker container
 
 Open [localhost:8080](http://localhost:8080/) to see the page created
 
@@ -32,7 +42,7 @@ Open [localhost:8080](http://localhost:8080/) to see the page created
 
 ![image](https://github.com/user-attachments/assets/b49b3c2f-1667-44aa-8221-c96bbc4000c0)
 
-7. Course completed
+### 7. Course completed
 
 ## Aditional information
 
