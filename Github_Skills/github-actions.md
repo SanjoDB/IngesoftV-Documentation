@@ -24,6 +24,8 @@ This GitHub guides the usage of GitHub Actions to Create and run a GitHub Action
 
 `.github/steps/5-trigger.md`
 
+What the workflow trigger should look like
+
 ![image](https://github.com/user-attachments/assets/7ea91881-7c9b-4d11-a20d-277e09a1a568)
 
 ### 6. Course completed
