@@ -12,17 +12,17 @@ Before starting, make sure to install de following requirements:
 
 ## Steps
 
-### 1. Navigate and follow the instructions in
+### Navigate and follow the instructions in
 
-`.github/steps/1-create-the-workflow-file.md`
+1. `.github/steps/1-create-the-workflow-file.md`
 
-`.github/steps/2-add-a-dockerfile.md`
+2. `.github/steps/2-add-a-dockerfile.md`
 
-`.github/steps/3-merge-your-pull-request.md`
+3. `.github/steps/3-merge-your-pull-request.md`
 
-`.github/steps/4-pull-your-image.md`
+4. `.github/steps/4-pull-your-image.md`
 
-`.github/steps/5-run-your-image.md`
+5. `.github/steps/5-run-your-image.md`
 
 ## Results
 
