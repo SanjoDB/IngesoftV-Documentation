@@ -4,31 +4,21 @@ This GitHub guides the usage of GitHub Actions to create workflows that enable y
 
 ## Steps
 
-### 1. Navigate and follow the instructions in
+### Navigate and follow the instructions in
 
-`.github/steps/1-add-a-test-workflow.md`
+1. `.github/steps/1-add-a-test-workflow.md`
 
-### 2. Navigate and follow the instructions in
+2. `.github/steps/2-fix-the-test.md`
 
-`.github/steps/2-fix-the-test.md`
+3. `.github/steps/3-upload-test-reports.md`
 
-### 3. Navigate and follow the instructions in
+4. `.github/steps/4-add-branch-protections.md`
 
-`.github/steps/3-upload-test-reports.md`
+5. `.github/steps/5-merge-your-pull-request.md`
 
-### 4. Navigate and follow the instructions in
-
-`.github/steps/4-add-branch-protections.md`
-
-### 5. Navigate and follow the instructions in
-
-`.github/steps/5-merge-your-pull-request.md`
-
-What the merge pull request should look like
+## Results
 
 ![image](https://github.com/user-attachments/assets/c285fc4f-305a-4c80-9175-74dee2c3d544)
-
-### 6. Course completed
 
 ## Aditional information
 
