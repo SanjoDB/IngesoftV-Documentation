@@ -4,17 +4,17 @@ This GitHub guides the usage of GitHub Actions to Create and run a GitHub Action
 
 ## Steps
 
-### 1. Navigate and follow the instructions in
+### Navigate and follow the instructions in
 
-`.github/steps/1-create-a-workflow.md`
+1. `.github/steps/1-create-a-workflow.md`
 
-`.github/steps/2-add-a-job.md`
+2. `.github/steps/2-add-a-job.md`
 
-`.github/steps/3-add-actions.md`
+3. `.github/steps/3-add-actions.md`
 
-`.github/steps/4-merge-your-pull-request.md`
+4. `.github/steps/4-merge-your-pull-request.md`
 
-`.github/steps/5-trigger.md`
+5. `.github/steps/5-trigger.md`
 
 ## Results
 
