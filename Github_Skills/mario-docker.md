@@ -28,8 +28,9 @@ Con esto generaremos una clave publica y una clave privada en el directorio
 
 8. Desplegar la infraestructura:
 
-`terraform plan
-terraform apply -auto-approve`
+`terraform plan`
+
+`terraform apply -auto-approve`
 
 9. Obtener la ip publica generada:
 
@@ -39,8 +40,9 @@ terraform apply -auto-approve`
 
 11. Ejecutar los playbooks con Ansible:
 
-`ansible-playbook playbooks/install_docker.yml
-ansible-playbook playbooks/run_container.yml`
+`ansible-playbook playbooks/install_docker.yml`
+
+`ansible-playbook playbooks/run_container.yml`
 
 ## Results
 
